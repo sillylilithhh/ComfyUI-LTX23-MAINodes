@@ -1,3 +1,17 @@
 # ComfyUI-LTX23-MAINodes
 
 Custom nodes for LTX 2.3/2.5. Dramatically reduce smearing in LTX 2.3/2.5 outputs. All credits goes to matlowai [for the initial implementation](https://github.com/matlowai/ComfyUI-MAINodes), I just converted it to work with LTX 2.3/2.5.
+
+
+# Installation
+
+
+```
+cd custom_nodes/
+
+git clone https://github.com/sillylilithhh/ComfyUI-LTX23-MAINodes
+```
+
+# Workflow
+
+My workflow that I use, which uses LTX 2.5 MSR lora and its accompanying custom nodes, is in the `workflows` directory. Beware, there is quite a bit of spaghetti, and a lot of sampling passes. Adjust the workflow as you see fit.
