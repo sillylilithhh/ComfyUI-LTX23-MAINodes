@@ -12,6 +12,6 @@ cd custom_nodes/
 git clone https://github.com/sillylilithhh/ComfyUI-LTX23-MAINodes
 ```
 
-# Workflow
+# Comfy UI Workflow
 
 My workflow that I use, which uses LTX 2.5 MSR lora and its accompanying custom nodes, is in the `workflows` directory. Beware, there is quite a bit of spaghetti, and a lot of sampling passes. Adjust the workflow as you see fit.
