@@ -14,4 +14,4 @@ git clone https://github.com/sillylilithhh/ComfyUI-LTX23-MAINodes
 
 # Comfy UI Workflow
 
-My workflow that I use, which uses LTX 2.5 MSR lora and its accompanying custom nodes, is in the `workflows` directory. Beware, there is quite a bit of spaghetti, and a lot of sampling passes. Adjust the workflow as you see fit.
+My workflow that I use, which is an Image to Video workflow for LTX 2.5, uses the MSR lora and its accompanying custom nodes. It is located in the `workflows` directory. Beware, there is quite a bit of spaghetti, and a lot of sampling passes. Adjust the workflow as you see fit.
